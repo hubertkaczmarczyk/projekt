@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <ctime>
-
+/spkdgfjois
 using namespace std;
 
 int main(int argc, char *argv[])
