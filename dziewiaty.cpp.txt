@@ -1,5 +1,5 @@
 #include <cstdlib>
-#include <iostream>
+#include <iostream>       //zmiana
 #include <cstdio>
 #include <cmath>
 
