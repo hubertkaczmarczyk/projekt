@@ -1,4 +1,4 @@
-#include <cstdlib>
+#include <cstdlib>      //pierwsze
 #include <iostream>
 #include <ctime>
 
