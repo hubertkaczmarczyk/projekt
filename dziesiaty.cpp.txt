@@ -1,4 +1,4 @@
-#include <cstdlib>
+#include <cstdlib>     // druga
 #include <iostream>
 #include <ctime>
 
