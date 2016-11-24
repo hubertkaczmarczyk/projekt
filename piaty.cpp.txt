@@ -2,7 +2,7 @@
 #include <iostream.h>
 
 float suma (float a, float b)
-{
+{//hesth
       return a+b;
       }
 float roznica (float a, float b)
