@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <cmath>
 
-
+//gfhmfgym
 using namespace std;
 
 double srednia(double b, double n ){
