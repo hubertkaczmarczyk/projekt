@@ -7,7 +7,7 @@ unsigned short int n,i;
 double wiersz[150];
 int main(int argc, char* argv[])
 {
-
+tysrty
 ofstream wpisz;
 wpisz.open("plik.txt");
 
